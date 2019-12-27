@@ -6,18 +6,17 @@
 
 
 
-## Used:
+## Using:
 
------------- | -------------
-API calls | Alamofire
-Display data | UICollectionView
-Custom views |  @IBDesignable/@IBInspectable
-Image cash | NSCache
-Web view | WKWebView
-
+__API calls:__ Alamofire
+__Display data:__  UICollectionView
+__Custom views:__  @IBDesignable/@IBInspectable
+__Image cash:__ NSCache
+__Web view:__ WKWebView
 
 
-## Screenshots
+
+## Screenshots:
 
 ![Collection of apps](images/screenshots/1.gif) ![App details](/images/screenshots/2.gif) ![App link in WebView](/images/screenshots/3.gif)
 
