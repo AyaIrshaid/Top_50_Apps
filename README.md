@@ -5,13 +5,16 @@
 * Shows details of the selected app.
 
 
+
 ## Used:
 
+------------ | -------------
 API calls | Alamofire
 Display data | UICollectionView
 Custom views |  @IBDesignable/@IBInspectable
 Image cash | NSCache
 Web view | WKWebView
+
 
 
 ## Screenshots
