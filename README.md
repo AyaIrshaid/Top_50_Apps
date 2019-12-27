@@ -8,11 +8,11 @@
 
 ## Using:
 
-__API calls:__ Alamofire
-__Display data:__  UICollectionView
-__Custom views:__  @IBDesignable/@IBInspectable
-__Image cash:__ NSCache
-__Web view:__ WKWebView
+:white_small_square:__API calls:__ Alamofire
+:white_small_square:__Display data:__  UICollectionView
+:white_small_square:__Custom views:__  @IBDesignable/@IBInspectable
+:white_small_square:__Image cash:__ NSCache
+:white_small_square:__Web view:__ WKWebView
 
 
 
